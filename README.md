@@ -4,7 +4,7 @@ Small projects made using various modules of Python.
 
 ## **1. WhatsApp_Spammer**
 
-### Send unlimited messages to your friend. 
+Send unlimited messages to your friend. 
 
 ## **2. Drawing_Circles**
 
